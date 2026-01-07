@@ -152,7 +152,7 @@ jobs:
                   "task_key": "tarea1_notebook1"
                 }
               ]
-            }
+            },
             {
               "task_key": "tarea3_notebook3",
               "description": "Ejecuta notebook ntbk_3",
